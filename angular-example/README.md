@@ -1,6 +1,19 @@
 # AngularExample
 
+This project is a basic Hello world App that has a basic angular component to get started.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+
+## Getting started
+
+1. Checkout the repository using your choice of git client 
+2. Use the terminal/cmd line to execute the following
+3. Install angular via `npm install -g @angular/cli`
+4. Configure all dependencies via `npm install`
+
+More information on setting up locally [Angular-setup-local](https://angular.io/guide/setup-local)
+
+Or [Get Started with VS Code](https://devblogs.microsoft.com/premier-developer/getting-started-with-node-js-angular-and-visual-studio-code/) as your IDE
 
 ## Development server
 
